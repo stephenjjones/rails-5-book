@@ -16,3 +16,4 @@ $ ruby -v
 `$ bin/rails test`
 `$ bin/rails db:seed`
 `$ bin/rails db:rollback`
+`$ bin/rails test:models`
