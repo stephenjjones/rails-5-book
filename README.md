@@ -18,3 +18,4 @@ $ ruby -v
 `$ bin/rails db:rollback`
 `$ bin/rails test:models`
 `$ bin/rails test:controllers`
+`$ bin/rails dev:cache` toggles caching
